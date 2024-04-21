@@ -1,3 +1,3 @@
 This repo contains the accompanying code for our final project for STATS 503.
 
-To reproduce the results presented in the write-up simply run: `bmi.ipynb`, `diabetes.ipynb`, `diabetes_no_blood.ipynb`, `diabetes_only_a1c.ipynb` and `KNN_Classification.ipynb`. Results will be saved in `results/`. To redownload the data if necessary use `get_data.py` - otherwise, the data we used is located in `data/cleaned_combined_gender.csv`.
+To reproduce the results presented in the write-up simply run: `bmi.ipynb`, `diabetes.ipynb`, `diabetes_no_blood.ipynb`, `diabetes_only_a1c.ipynb` and `KNN_Classification.ipynb`. Our reported results are saved in `results/`. Note that running the notebooks will override them locally. To redownload the data if necessary use `get_data.py` - otherwise, the data we used is located in `data/cleaned_combined_gender.csv`.
